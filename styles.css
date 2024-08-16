@@ -139,18 +139,19 @@ a:active{
 }
 
 .action-button{
-    background-color: #f8fafc;
+    background-color: #020617;
     padding: 10px 30px 10px 30px;
     border: 2px solid black;
     border-radius: 50px;
     font-family: Roboto;
-    color: #020617;
+    color: #ffffff;
     transition: background-color 0.25s ease-in-out;
     cursor: pointer;
+    box-shadow: 3px 0px 3px 1px #0000004d;
 }
 
 .action-button:hover{
-    background-color:  #cbd5e1;
+    background-color:  #1e293b;
 }
 
 .sidebar{
